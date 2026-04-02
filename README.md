@@ -1,17 +1,34 @@
 # SocialHub 🚀
 
-A social media app built using React.
+A social media web app built using React.
 
-## Features
+## 🌟 Features
 - 🌙 Dark Mode UI
 - 📝 Create Posts
 - 🖼️ Upload Images
 - 🔖 Save Posts
 
-## Tech Used
-- React
+## 🛠️ Tech Stack
+- React (Vite)
 - JavaScript
 - CSS
 
-## About
-This is my first major project as a beginner developer. I built this to learn how real-world apps work.
+## 📸 Demo
+(Add your screenshots here)
+
+## 🚀 Getting Started
+1. Clone the repo
+2. Install dependencies:
+   npm install
+3. Run the app:
+   npm run dev
+
+## 💡 About
+I’m a 15-year-old developer learning React and building real-world projects.  
+This is my first major project, and I’m continuously improving it.
+
+## 🔮 Future Improvements
+- Add comments system 💬  
+- Improve UI/UX 🎨  
+- Add backend integration 🗄️  
+
