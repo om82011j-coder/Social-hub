@@ -31,5 +31,5 @@ This is my first major project.
 ## 🔮 Future Improvements
 - Add comments system 💬  
 - Improve UI 🎨  
-- Add backend 🗄️   
+- Add backend 🗄️    
 
