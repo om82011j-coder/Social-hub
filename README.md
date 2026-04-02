@@ -11,13 +11,13 @@ A social media web app built using React.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./home.png)
+![Home](./Home.png)
 
 ### 📝 Create Post
-![Create](./create.png)
+![Create](./Create.png)
 
 ### 🔖 Save Post
-![Save](./save.png)
+![Save](./Save.png)
 
 ## 🛠️ Tech Stack
 - React (Vite)
